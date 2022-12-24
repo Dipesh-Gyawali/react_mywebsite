@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react_mywebsite/static/css/main.2ad0c422.css",
+    "main.js": "/react_mywebsite/static/js/main.8db1ce1b.js",
+    "static/media/perfil.png": "/react_mywebsite/static/media/perfil.e00efc5d5c72ac60d987.png",
+    "static/media/skill.jpg": "/react_mywebsite/static/media/skill.b9779f5af766d33ad0f6.jpg",
+    "static/media/work4.jpg": "/react_mywebsite/static/media/work4.93184b0478d6d4413fdf.jpg",
+    "static/media/work6.jpg": "/react_mywebsite/static/media/work6.07ea548d50958f22fdf7.jpg",
+    "static/media/work2.jpg": "/react_mywebsite/static/media/work2.6640871df42be4ddef4f.jpg",
+    "index.html": "/react_mywebsite/index.html",
+    "main.2ad0c422.css.map": "/react_mywebsite/static/css/main.2ad0c422.css.map",
+    "main.8db1ce1b.js.map": "/react_mywebsite/static/js/main.8db1ce1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ad0c422.css",
+    "static/js/main.8db1ce1b.js"
+  ]
+}
