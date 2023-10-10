@@ -205,9 +205,13 @@ img{
 }
 .home__img{
     position: absolute;
-    right: 0;
-    bottom: 0;
+    right: 100px;
+    top: 100px;
+    /* bottom: 0; */
+    left: 850px;
     width: 295px;
+    width: 50%;
+    border-radius: 50%;
 }
 
 /* ===== ABOUT =====*/

@@ -10,9 +10,12 @@ const Skills = () => {
                         <h3 class="skills__subtitle">Frontend</h3>
                         <span class="skills__name">HTML</span>
                         <span class="skills__name">CSS</span>
+                        <span class="skills__name">SCSS</span>
                         <span class="skills__name">Bootstrap</span>
+                        <span class="skills__name">Tailwind</span>
                         <span class="skills__name">Javascript</span>
                         <span class="skills__name">React</span>
+
                         
                         <h3 class="skills__subtitle">Backend</h3>
                         <span class="skills__name">Python</span>

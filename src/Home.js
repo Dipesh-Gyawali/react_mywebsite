@@ -1,4 +1,5 @@
 import React from 'react'
+import animatedGif from './img/animated.gif';
 
 const Home = () => {
   return (
@@ -12,7 +13,12 @@ const Home = () => {
                     <a href="#about" class="home__scroll-link"><i class='bx bx-up-arrow-alt' ></i>Scroll down</a>
                 </div>
 
-                <img src={require('./img/perfil.png')} alt="" class="home__img"/>
+                {/* <img src={require('./img/perfil.png')} alt="" class="home__img"/> */}
+                <img
+            src={animatedGif} 
+            alt=""
+            className="home__img"
+          />
             </div>
         </section>
     </div>
