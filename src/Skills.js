@@ -18,6 +18,8 @@ const Skills = () => {
 
                         
                         <h3 class="skills__subtitle">Backend</h3>
+                        <span class="skills__name">Node JS</span>
+                        <span class="skills__name">Express</span>
                         <span class="skills__name">Python</span>
                         <span class="skills__name">Django</span>
                         <span class="skills__name">Rest API</span>
