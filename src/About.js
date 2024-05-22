@@ -12,8 +12,8 @@ const About = () => {
 
                     <div>
                         <h2 class="about__subtitle">I'm Dipesh Gyawali</h2>
-                        <span class="about__profession">React/Django Developer</span>
-                        <p class="about__text">I have made projects such as: The News-Times, Meroshare Clone, To Do App, Student Registration App, Blog, Resume/CV generator, Coverletter generator, Food listing app, Portfolio and News Portal API. Currently I am learning React Js.</p>
+                        <span class="about__profession">Full Stack Developer (MERN)</span>
+                        <p class="about__text">I have made projects such as: Ecommerce Website, Job Portal API, Cinemate, To Do App, Student Registration App, Blog, Resume/CV generator, Coverletter generator, Food listing app, Portfolio, News Portal API.</p>
 
                         <div class="about__social">
                             <a href="#" class="about__social-icon"><i class='bx bxl-linkedin' ></i></a>
